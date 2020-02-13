@@ -1,0 +1,8 @@
+C:\Users\pledezma\source\repos\CAR_AMI_LIB\CAR_AMI_LIB\bin\Debug\netcoreapp2.0\CAR_AMI_LIB.deps.json
+C:\Users\pledezma\source\repos\CAR_AMI_LIB\CAR_AMI_LIB\bin\Debug\netcoreapp2.0\CAR_AMI_LIB.dll
+C:\Users\pledezma\source\repos\CAR_AMI_LIB\CAR_AMI_LIB\bin\Debug\netcoreapp2.0\CAR_AMI_LIB.pdb
+C:\Users\pledezma\source\repos\CAR_AMI_LIB\CAR_AMI_LIB\obj\Debug\netcoreapp2.0\CAR_AMI_LIB.csprojAssemblyReference.cache
+C:\Users\pledezma\source\repos\CAR_AMI_LIB\CAR_AMI_LIB\obj\Debug\netcoreapp2.0\CAR_AMI_LIB.AssemblyInfoInputs.cache
+C:\Users\pledezma\source\repos\CAR_AMI_LIB\CAR_AMI_LIB\obj\Debug\netcoreapp2.0\CAR_AMI_LIB.AssemblyInfo.cs
+C:\Users\pledezma\source\repos\CAR_AMI_LIB\CAR_AMI_LIB\obj\Debug\netcoreapp2.0\CAR_AMI_LIB.dll
+C:\Users\pledezma\source\repos\CAR_AMI_LIB\CAR_AMI_LIB\obj\Debug\netcoreapp2.0\CAR_AMI_LIB.pdb
